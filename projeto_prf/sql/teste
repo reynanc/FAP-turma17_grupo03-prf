@@ -1,5 +1,0 @@
-SELECT *
-FROM read_csv('C:/Users/Aluno/Documents/FAP-turma17_grupo03-prf/projeto_prf/dados_brutos/dados_prf.csv',
-    delim=';',
-    header=true,
-    encoding='latin-1');
